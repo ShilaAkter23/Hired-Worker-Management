@@ -1,0 +1,263 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Kulsum\\HiredWorkerManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|d:\\kulsum\\hiredworkermanagement\\hiredworkermanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|d:\\kulsum\\hiredworkermanagement\\hiredworkermanagement\\viewmodels\\worklogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\viewmodels\\worklogviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\viewmodels\\workerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\viewmodels\\workerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\controllers\\workerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\viewmodels\\loginmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\views\\workers\\_createpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\views\\workers\\_createpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\viewmodels\\input\\workerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\viewmodels\\input\\workerinputmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\views\\workers\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\views\\workers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\views\\workers\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\viewmodels\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|D:\\Kulsum\\HiredWorkerManagement\\hiredworkermanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2C4DDE4-EF45-4594-85A0-147338FBAB12}|HiredWorkerManagement\\HiredWorkerManagement.csproj|solutionrelative:hiredworkermanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "HiredWorkerManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-24T17:45:44.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAAEoAAAAAlZmZmZkTwBYAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:26.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "HiredWorkerManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADQAAABA/P////8gwAUAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2023-08-09T10:01:27.467Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Startup.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Startup.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Startup.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\Startup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:27.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WorkerViewModel.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\WorkerViewModel.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\ViewModels\\WorkerViewModel.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\WorkerViewModel.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\ViewModels\\WorkerViewModel.cs",
+              "ViewState": "AQIAAAgAAACAaGZmZmYUwBcAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:27.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WorkLogViewModel.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\WorkLogViewModel.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\ViewModels\\WorkLogViewModel.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\WorkLogViewModel.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\ViewModels\\WorkLogViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:27.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Models\\DbModel.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Models\\DbModel.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\Models\\DbModel.cs",
+              "ViewState": "AQIAABkAAAAAJQAAAAAWwEYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:27.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginModel.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\LoginModel.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\ViewModels\\LoginModel.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\LoginModel.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\ViewModels\\LoginModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:26.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WorkersController.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Controllers\\WorkersController.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Controllers\\WorkersController.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Controllers\\WorkersController.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\Controllers\\WorkersController.cs",
+              "ViewState": "AQIAABEAAAAASDQzMzPTvxUAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:27.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Workers\\Create.cshtml",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Views\\Workers\\Create.cshtml",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Workers\\Create.cshtml",
+              "RelativeToolTip": "HiredWorkerManagement\\Views\\Workers\\Create.cshtml",
+              "ViewState": "AQIAAEoAAAAAAAAAAIBZwFwAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-08-09T10:01:27.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_CreatePartial.cshtml",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Workers\\_CreatePartial.cshtml",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Views\\Workers\\_CreatePartial.cshtml",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Workers\\_CreatePartial.cshtml",
+              "RelativeToolTip": "HiredWorkerManagement\\Views\\Workers\\_CreatePartial.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAEBVwC8AAABhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-08-09T10:01:27.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WorkerInputModel.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\Input\\WorkerInputModel.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\ViewModels\\Input\\WorkerInputModel.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\Input\\WorkerInputModel.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\ViewModels\\Input\\WorkerInputModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:27.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Workers\\Edit.cshtml",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Views\\Workers\\Edit.cshtml",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Views\\Workers\\Edit.cshtml",
+              "RelativeToolTip": "HiredWorkerManagement\\Views\\Workers\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAB4AAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002242|",
+              "WhenOpened": "2023-08-09T10:01:26.011Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\ViewModels\\RegisterModel.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\ViewModels\\RegisterModel.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\ViewModels\\RegisterModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:25.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "HiredWorkerManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Kulsum\\HiredWorkerManagement\\HiredWorkerManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "HiredWorkerManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2023-08-09T10:01:27.472Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
